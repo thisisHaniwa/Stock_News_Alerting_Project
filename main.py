@@ -59,7 +59,7 @@ percentage = (abs(difference)/float(close_yesterday)) * 100
 #Whenever there's a large fluctuation(5%) in the stock price, we want to send the user the difference percentage the of stock
 #and the top 3 articles of the company of that stock, which might provide reason for change in stock
 #Use the NEWS API to get articles
-if percentage > 2:
+if percentage > 5:
 
     response = requests.get(url=NEWS_ENDPOINT, params=NEWS_PARAMETER)
     response.raise_for_status()
