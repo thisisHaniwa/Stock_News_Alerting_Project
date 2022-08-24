@@ -11,5 +11,5 @@ This picture shows that the message was sent successfully
 ![Console screenshot](Screenshot+(71).png)
 
 The picture below shows the SMSes sent to my phone number
-![SMS screenshot](Screenshot_20220824_184401.jpg).jpg)
+![SMS screenshot](Screenshot_20220824_184401.jpg)
 
