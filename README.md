@@ -7,4 +7,9 @@ For this project, three APIs were used:
 - NewsAPI, which is the API used to get the article(news) related to the company of that stock. API endpoint: https://newsapi.org/v2/everything
 - Twilio, which is used to send SMSes, instead of using an API endpoint for Twilio - the Twilio package was installed, and from there Twilio was imported. 
 
+This picture shows that the message was sent successfully 
+![Console screenshot](Screenshot+(71).png)
+
+The picture below shows the SMSes sent to my phone number
+![SMS screenshot](Screenshot_20220824_184401.jpg).jpg)
 
